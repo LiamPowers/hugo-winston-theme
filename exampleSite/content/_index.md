@@ -1,5 +1,5 @@
 ---
-title: Build better tactics
+title: Build better FM22 tactics
 description: 'Discover the best FM22 tactics, tactical guides and downloads. Designed
   to make your Football Manager 2021 career more successful. '
 
