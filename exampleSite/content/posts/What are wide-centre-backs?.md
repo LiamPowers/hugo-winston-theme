@@ -5,7 +5,7 @@ name = "Posts"
 weight = 2
 
 +++
----
+    ---
     title: What are Wide Centre-Backs? Let's explore this new FM22 Player Role.
     date: 2021-09-29
     description: 
@@ -20,7 +20,7 @@ Let's delve into what makes this new FM22 Player Role unique and let's explore h
 
 ## What does a Wide Centre-Back do?
 
-When we think about the wide centre-back in FM22, what we envision is someone like Kyle Walker playing in a back three for Pep Guardiola. The way I imagine the role will function will be a cross between a box-to-box midfielder and a ball-playing defender. 
+When we think about the wide centre-back in FM22, what we envision is someone like Kyle Walker playing in a back three for Pep Guardiola. The way I imagine the role will function will be a cross between a box-to-box midfielder and a ball-playing defender.
 
 This is the official description from Sports Interactive:
 
