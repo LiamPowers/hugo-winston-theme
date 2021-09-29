@@ -16,3 +16,20 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: meta
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  description: '<code>--- title: "My awesome blog post" description: "An insightful
+    description for this page that Google will like" image: "images/author.png" ---</code>'
+  hidden: false
+  label: meta
