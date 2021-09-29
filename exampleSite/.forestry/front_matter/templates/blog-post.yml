@@ -6,3 +6,5 @@ fields:
   type: tag_list
   default: []
   label: tag
+pages:
+- exampleSite/content/posts/What are wide-centre-backs?.md
