@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://fm22tactics.com"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "FM22 Tactics"
 themesDir = "../.."
 theme = "hugo-winston"
 
@@ -15,9 +15,9 @@ paginate = 3
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
+  google_analytics_id = "G-YC5KQB77MM"
+  twitter_handle = "@fmbase"
+  showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addFrame = true
