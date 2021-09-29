@@ -1,10 +1,13 @@
 ---
 title: Wide Centre-Backs in FM22 - Revolutionary
-date: 2021-09-29
-description: 'We explore the new Wide Centre-Back player role in FM22 and delve into what makes it so special.'
-image: /uploads/wide-centre-backs-in-fm22.png
----
+date: '2021-09-29'
+description: We explore the new Wide Centre-Back player role in FM22 and delve into
+  what makes it so special.
+image: "/uploads/wide-centre-backs-in-fm22.png"
+tag:
+- Speculation
 
+---
 The teaser trailer that Sports Interactive recently released introduced us to one very cool new addition to the Football Manager series; The Wide Centre-Back.
 
 Let's delve into what makes this new FM22 Player Role unique and let's explore how it can revolutionise your tactics and take your team to the next level.
