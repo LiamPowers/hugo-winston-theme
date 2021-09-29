@@ -1,11 +1,10 @@
 ---
-title: 'About'
-image: images/writer.jpeg
+title: About
+image: "/uploads/about-fm22tactics-com.jpg"
 menu:
-  main:
-    name: "About"
----
+  main: {}
 
+---
 ## Contra vagos
 
 Lorem _markdownum notam si_ lintea meque certa [en meumque
