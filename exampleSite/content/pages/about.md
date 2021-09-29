@@ -3,7 +3,8 @@ title: About
 image: "/uploads/about-fm22tactics-com.png"
 menu:
   main: {}
-
+  
+description: FM22Tactics.com is all about introducing you to the best FM22 tactics available and teaching you how to create your very own successful Football Manager tactics.
 ---
 ## Introducing you to the best FM22 tactics
 
