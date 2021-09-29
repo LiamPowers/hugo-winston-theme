@@ -7,8 +7,10 @@ menu:
 ---
 ## Introducing you to the best FM22 tactics
 
-We exist solely to introduce you to all the best FM22 tactics available on the internet. We have played Football Manager for a very long time, and we have a lot of experience to share. Our tips, tricks and guides will help you to make the best Football Manager 2022 tactics.
+It's important to reflect on what makes great FM22 tactics. Is it copying the latest exploit? Is it analysing your squad, the player roles and their attributes, and then developing better Football Manager 2022 tactics? We're here to help you figure that out.
 
-## Football Manager Tactics done right
+We want to introduce you to Football Manager tactics that are actually worth studying and we want to create guides than can teach you how to make better FM22 tactics.
 
-We don't just believe in pointing our users towards popular downloads, we also believe in guiding them and teaching them how to make FM 2022 tactics in the proper way. We look forward to the journey ahead and hope we can make a real difference to your virtual Football Management careers.
+**Football Manager Tactics done right**
+
+We don't just believe in pointing our users towards popular downloads, we also believe in guiding them and teaching them how to make Football Managers tactics properly. We look forward to the journey ahead and hope we can make a real difference to your virtual Football Management careers.
