@@ -4,8 +4,7 @@ date: '2021-09-29'
 description: We explore the new Wide Centre-Back player role in FM22 and delve into
   what makes it so special.
 image: "/uploads/wide-centre-backs-in-fm22.png"
-tag:
-- Speculation
+tag: []
 
 ---
 The teaser trailer that Sports Interactive recently released introduced us to one very cool new addition to the Football Manager series; The Wide Centre-Back.
@@ -22,4 +21,4 @@ This is the official description from Sports Interactive:
 
 > The main job of the Wide Centre-Back is to stop the opposing attackers from playing and to clear the ball from danger when required. However, unlike standard central defenders, the Wide Centre-Back is encouraged to stay wide in possession and support the midfield more like a fullback.
 
-What we know for sure is that some FM21 tactics such as [Clout's 3ATB]() would have really benefitted from this brand new Football Manager 2022 player role. 
+What we know for sure is that some FM21 tactics such as [Clout's 3ATB](https://beta.fm-base.co.uk/fm2021_40/tactic/clouts-3atb-556224-5762 "Best FM21 tactics") would have really benefitted from this brand new Football Manager 2022 player role.
