@@ -5,7 +5,8 @@ description: FM22Tactics.com is all about introducing you to the best FM22 tacti
   available and teaching you how to create your very own successful Football Manager
   tactics.
 menu:
-  main: {}
+  main:
+    weight: 1
 
 ---
 ## **Introducing you to the best FM22 tactics**

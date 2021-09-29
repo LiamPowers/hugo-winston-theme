@@ -1,24 +1,20 @@
 baseURL = "https://fm22tactics.com"
 languageCode = "en-us"
-title = "FM22 Tactics"
-themesDir = "../.."
-theme = "hugo-winston"
-
+paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-paginate = 3
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.55.0"
-
+theme = "hugo-winston"
+themesDir = "../.."
+title = "FM22 Tactics"
+[module.hugoVersion]
+extended = true
+min = "0.55.0"
 [params]
-  google_analytics_id = "G-YC5KQB77MM"
-  twitter_handle = "@fmbase"
-  showAuthorOnHomepage = false
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
-  addFrame = true
-  addDot = true
+addDot = true
+addFrame = true
+google_analytics_id = "G-YC5KQB77MM"
+showAuthorOnHomepage = false
+showAuthorOnPosts = false
+showPostsOnHomepage = false
+twitter_handle = "@fmbase"

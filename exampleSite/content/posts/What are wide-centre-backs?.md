@@ -1,5 +1,8 @@
 +++
 tag = ["Player Roles"]
+[menu.main]
+name = "Posts"
+weight = 2
 
 +++
 ---
