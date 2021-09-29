@@ -7,6 +7,10 @@ pygmentsUseClasses = true
 theme = "hugo-winston"
 themesDir = "../.."
 title = "FM22 Tactics"
+[[menu.main]]
+name = "Buy FM22"
+url = "https://beta.fm-base.co.uk/buy-fm22"
+weight = 3
 [module.hugoVersion]
 extended = true
 min = "0.55.0"

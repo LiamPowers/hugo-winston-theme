@@ -6,7 +6,7 @@ description: FM22Tactics.com is all about introducing you to the best FM22 tacti
   tactics.
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 ## **Introducing you to the best FM22 tactics**
