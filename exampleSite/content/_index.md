@@ -1,5 +1,5 @@
 ---
-title: Let's create the best FM22 tactics; together.
+title: Let's create the best FM22 tactics; together
 description: 'Discover the best FM22 tactics, tactical guides and downloads. Designed
   to make your Football Manager 2021 career more successful. '
 
